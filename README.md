@@ -1,0 +1,1 @@
+In this project, we forecasted electricity production using time series analysis techniques on historical data from 1985 to 2017. Methods like Two-Level Forecasting, Holt-Winters, and ARIMA were applied. ARIMA provided the most accurate forecasts, evaluated by MAPE and RMSE, predicting the next 12 months' production effectively.
